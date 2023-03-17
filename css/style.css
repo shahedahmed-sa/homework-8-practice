@@ -1,0 +1,32 @@
+.box-green{
+    margin: 10px 0 ;
+    min-height: 80px;
+    background-color: green;
+    font-size: 30px;
+    color: white;
+}
+.box-red{
+    margin: 10px 0 ;
+    min-height: 80px;
+    background-color: red;
+    font-size: 30px;
+    color: white;
+    
+}
+
+.box-yellow{
+    margin: 10px 0 ;
+    min-height: 80px;
+    background-color: yellow;
+    font-size: 30px;
+    color: rgb(46, 45, 45);
+    
+}
+
+.box-lime{
+    margin: 10px 0 ;
+    min-height: 80px;
+    background-color: lime;
+    font-size: 30px;
+    color: white;
+}
